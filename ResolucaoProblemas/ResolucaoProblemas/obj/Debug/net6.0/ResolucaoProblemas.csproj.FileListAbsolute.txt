@@ -1,0 +1,15 @@
+C:\Users\TM_PROV\source\repos\ResolucaoProblemas\ResolucaoProblemas\bin\Debug\net6.0\ResolucaoProblemas.exe
+C:\Users\TM_PROV\source\repos\ResolucaoProblemas\ResolucaoProblemas\bin\Debug\net6.0\ResolucaoProblemas.deps.json
+C:\Users\TM_PROV\source\repos\ResolucaoProblemas\ResolucaoProblemas\bin\Debug\net6.0\ResolucaoProblemas.runtimeconfig.json
+C:\Users\TM_PROV\source\repos\ResolucaoProblemas\ResolucaoProblemas\bin\Debug\net6.0\ResolucaoProblemas.dll
+C:\Users\TM_PROV\source\repos\ResolucaoProblemas\ResolucaoProblemas\bin\Debug\net6.0\ResolucaoProblemas.pdb
+C:\Users\TM_PROV\source\repos\ResolucaoProblemas\ResolucaoProblemas\obj\Debug\net6.0\ResolucaoProblemas.csproj.AssemblyReference.cache
+C:\Users\TM_PROV\source\repos\ResolucaoProblemas\ResolucaoProblemas\obj\Debug\net6.0\ResolucaoProblemas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TM_PROV\source\repos\ResolucaoProblemas\ResolucaoProblemas\obj\Debug\net6.0\ResolucaoProblemas.AssemblyInfoInputs.cache
+C:\Users\TM_PROV\source\repos\ResolucaoProblemas\ResolucaoProblemas\obj\Debug\net6.0\ResolucaoProblemas.AssemblyInfo.cs
+C:\Users\TM_PROV\source\repos\ResolucaoProblemas\ResolucaoProblemas\obj\Debug\net6.0\ResolucaoProblemas.csproj.CoreCompileInputs.cache
+C:\Users\TM_PROV\source\repos\ResolucaoProblemas\ResolucaoProblemas\obj\Debug\net6.0\ResolucaoProblemas.dll
+C:\Users\TM_PROV\source\repos\ResolucaoProblemas\ResolucaoProblemas\obj\Debug\net6.0\refint\ResolucaoProblemas.dll
+C:\Users\TM_PROV\source\repos\ResolucaoProblemas\ResolucaoProblemas\obj\Debug\net6.0\ResolucaoProblemas.pdb
+C:\Users\TM_PROV\source\repos\ResolucaoProblemas\ResolucaoProblemas\obj\Debug\net6.0\ResolucaoProblemas.genruntimeconfig.cache
+C:\Users\TM_PROV\source\repos\ResolucaoProblemas\ResolucaoProblemas\obj\Debug\net6.0\ref\ResolucaoProblemas.dll
